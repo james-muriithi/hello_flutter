@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This is a simple hello World flutter example that has a gradient background and also a gradient app bar.
-![Screen Shots](https://raw.githubusercontent.com/muriithi-james/hello_flutter/screenshot.jpg)
+![Screen Shots](https://github.com/james-muriithi/hello_flutter/blob/master/screenshot.jpg)
 
 This project is a starting point for a Flutter application.
 
